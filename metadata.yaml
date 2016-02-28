@@ -1,0 +1,30 @@
+_repo: How-and-When-to-Be-Your-Own-Doctor_4343
+creator:
+  authors:
+  - agent_name: Moser, Isabel A.
+    gutenberg_agent_id: '1456'
+    url: http://www.gutenberg.org/2009/agents/1456
+  - agent_name: Solomon, Steve
+    birthdate: 1942
+    gutenberg_agent_id: '1454'
+    url: http://www.gutenberg.org/2009/agents/1454
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcsh 'Diet'
+- !lcc 'R'
+- !lcsh 'Therapeutics, Physiological'
+tableOfContents: 'How I became a hygienist -- The nature and cause of disease -- Fasting
+  -- Colon cleansing -- Diet and nutrition -- Vitamins and other food supplements
+  -- The analysis of disease states: Helping the body recover -- Appendices.'
+title: How and When to Be Your Own Doctor
+url: http://www.gutenberg.org/ebooks/4343
